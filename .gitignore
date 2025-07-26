@@ -1,0 +1,11 @@
+# Eclipse IDE files
+.classpath
+.project
+.settings/
+
+# Build output
+bin/
+build.fxbuild
+
+# Compiled Java files
+*.class
